@@ -64,6 +64,9 @@ sales-eda-project/
 ![Monthly Sales Trend](charts/Monthly_Sales_Trend.png)
 *Monthly Sales Trend*
 
-![Profit by Sub-Category](charts/profit_by_subcat.png)
+![Profit by Sub-Category](charts/Total_Profit_By_Sub-Category.png)
 *Profit by Sub-Category*
+
+![Impact of Discount on Profit](charts/Impact_of_Discount_on_Profit.png)
+*Impact of Discount on Profit*
 
