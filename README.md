@@ -54,11 +54,12 @@ sales-eda-project/
    jupyter notebook Sales_EDA_Project.ipynb
 3. Run the cells in sequence to explore the analysis.
 
-   Key Insights (Summary)
-   Certain sub-categories like Chairs and Tables show high sales but poor profit margins.
-   Discount has a clear inverse relationship with Profit, confirmed via regression plots.
-   The highest sales occur in specific months (as shown in monthly trend line chart).
-   Some sub-categories contribute significantly to losses — an opportunity for strategic review.
+## 📈 Key Insights
+
+- **High Sales, Low Profit**: Sub-categories like "Chairs" and "Tables" have high sales but low profit margins.
+- **Discount Impact**: Higher discounts correlate with reduced profits.
+- **Monthly Trends**: Sales peak during specific months, indicating seasonal trends.
+
 
 Sample Visualizations
 
