@@ -18,7 +18,7 @@ This project performs **Exploratory Data Analysis (EDA)** on a retail sales data
 - Data cleaning, EDA, Visualization
 
 ## 📊 Dataset
-- Source: [Superstore Dataset](dataset/Superstore_Sales.csv)
+- Source: [Superstore Dataset](Superstore_Sales.csv)
 - Includes data on orders, customers, products, etc.
 
 ## 📊 Key Objectives
