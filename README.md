@@ -61,5 +61,11 @@ sales-eda-project/
 - **Monthly Trends**: Sales peak during specific months, indicating seasonal trends.
 
 
-Sample Visualizations
+## 📊 Sample Visualizations
+
+![Monthly Sales Trend](E:/Study Material/Data Science/Project)
+*Monthly Sales Trend*
+
+![Profit by Sub-Category](charts/profit_by_subcat.png)
+*Profit by Sub-Category*
 
