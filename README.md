@@ -61,12 +61,12 @@ sales-eda-project/
 
 ## 📊 Sample Visualizations
 
-![Monthly Sales Trend](charts/Monthly_Sales_Trend.png)
+![Monthly Sales Trend](charts/Monthly_Sales_Trend.PNG)
 *Monthly Sales Trend*
 
-![Profit by Sub-Category](charts/Total_Profit_By_Sub-Category.png)
+![Profit by Sub-Category](charts/Total_Profit_by_Sub-Category.PNG)
 *Profit by Sub-Category*
 
-![Impact of Discount on Profit](charts/Impact_of_Discount_on_Profit.png)
+![Impact of Discount on Profit](charts/Impact_of_Discount_on_Profit.PNG)
 *Impact of Discount on Profit*
 
