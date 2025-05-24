@@ -63,7 +63,7 @@ sales-eda-project/
 
 ## 📊 Sample Visualizations
 
-![Monthly Sales Trend](E:/Study Material/Data Science/Project)
+![Monthly Sales Trend](E:/Study Material/Data Science/Project/Monthly_Sales_Trend.png)
 *Monthly Sales Trend*
 
 ![Profit by Sub-Category](charts/profit_by_subcat.png)
