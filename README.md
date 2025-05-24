@@ -5,7 +5,7 @@
 - Tools & Skills
 - Dataset Info
 - Key Objectives
-- Procject Structure
+- Project Structure
 - How to View the Project
 - Key Insights
 - Sample Visualizations
