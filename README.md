@@ -4,10 +4,11 @@
 - Overview
 - Tools & Skills
 - Dataset Info
-- Business Questions
-- Process
-- Insights & Conclusion
-- How to Run
+- Key Objectives
+- Procject Structure
+- How to View the Project
+- Key Insights
+- Sample Visualizations
 
 ## 📌 Project Overview
 This project performs **Exploratory Data Analysis (EDA)** on a retail sales dataset using Python libraries such as **Pandas**, **Seaborn**, and **Matplotlib**. The objective is to derive meaningful business insights around sales performance, profit trends, and customer behavior.
@@ -38,21 +39,12 @@ sales-eda-project/
 │ ├── monthly_trend.png
 │ ├── profit_by_subcat.png
 │ └── ...
-├── Sales_EDA_Report.pdf # Optional final report (if created)
 
+## ▶️ How to View the Project
 
----
+- Open `Sales_EDA_Project.ipynb` in Jupyter Notebook.
+- Run the code cells to see all the analysis and charts.
 
-## ▶️ How to Run the Project
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Rohitd1907/sales-eda-project.git
-   cd sales-eda-project
-2. Open the Jupyter Notebook
-   ``` bash
-   jupyter notebook Sales_EDA_Project.ipynb
-3. Run the cells in sequence to explore the analysis.
 
 ## 📈 Key Insights
 
