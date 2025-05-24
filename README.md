@@ -43,8 +43,6 @@ sales-eda-project/
 
 ## ▶️ How to Run the Project
 
-> This is optional if you're only showcasing your project, but helpful if others want to replicate it.
-
 1. Clone the repository:
    ```bash
    git clone https://github.com/Rohitd1907/sales-eda-project.git
