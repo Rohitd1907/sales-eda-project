@@ -30,6 +30,7 @@ This project performs **Exploratory Data Analysis (EDA)** on a retail sales data
 - Understand regional or categorical distribution (based on available data)
 
 ## 📁 Project Structure
+```
 sales-eda-project/
 │
 ├── Sales_EDA_Project.ipynb # Jupyter notebook with full analysis
@@ -39,6 +40,7 @@ sales-eda-project/
 │ ├── monthly_trend.png
 │ ├── profit_by_subcat.png
 │ └── ...
+```
 
 ## ▶️ How to View the Project
 
@@ -64,3 +66,9 @@ sales-eda-project/
 ![Impact of Discount on Profit](charts/Impact_of_Discount_on_Profit.PNG)
 *Impact of Discount on Profit*
 
+---
+
+## 💡 Author
+
+Rohit D.  
+Aspiring Data Analyst | Transitioning into Data Science
